@@ -2,10 +2,10 @@
 <a id="readme-top"></a>
 
 
-  <h3 align="center">First Site (with Bootstrap)- README</h3>
+  <h3 align="center">Shopping Cart- README</h3>
 
   <p align="center">
-    This is the first site that i have done and i did it with bootstrap.
+  A javascript project from Alura.
   </p>
 </div>
 
